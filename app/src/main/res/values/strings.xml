@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github users</string>
+    <string name="retry">Retry</string>
+    <string name="repos">Repositories %d</string>
+    <string name="followers">Followers %d</string>
+    <string name="gists">Gists %d</string>
+</resources>
